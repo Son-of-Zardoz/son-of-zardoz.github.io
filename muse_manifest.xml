@@ -1,0 +1,85 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="false" exportTarget="other" domain="jacobparksdesign.com" resolutions="1x" timestamp="1580582653839">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="150050095" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3986258817" seo="true" mt="1580582644330" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4242492936" ref="index"/>
+    <file name="nomq_index.css" crc="3872280044" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3939489907" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="128606099" ref="index:phone>index"/>
+    <file name="webpro.js" crc="3856315280" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:phone>index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="os_covers_b.jpg" crc="3993119231" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="sn_mythbusters_b.jpg" crc="310024438" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="golf_box_b.jpg" crc="4024802750" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aaa_italy_awaits_b.jpg" crc="84015252" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mascot_logos_b.jpg" crc="4213111671" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aaa_north_star_b.jpg" crc="332939478" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn_fr_shaq_b.jpg" crc="4177324850" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="os_premiums_b.jpg" crc="390838270" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn_nba_mock_b.jpg" crc="88935156" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn_risky_biz_b.jpg" crc="215663966" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="os_river_map_b.jpg" crc="359965477" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn_new_frontier_b.jpg" crc="4021762998" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="os_aug_cover_process_b.jpg" crc="4156215875" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn_tgim_b.jpg" crc="3823029877" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
+    <file name="jpd_enter_clear_white.png" crc="4166403600" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jpd_clear_2280x238.png" crc="4236141433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jpd_clear_2216x184.png" crc="414025470" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jpd_clear_2369x315.png" crc="3823808010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="904578" seo="true" mt="1580578779875" redirect="true"/>
+</manifest>
